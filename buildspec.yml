@@ -7,7 +7,7 @@ phases:
     - npm ci
 
   build:
-    commnads:
+    commands:
       npm run prod
 
   artifacts:
